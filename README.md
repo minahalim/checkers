@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with Checkers App
+
+<img width="582" alt="image" src="https://github.com/minahalim/checkers/assets/3163056/36b5f930-65f9-4f31-a855-7090661a442b">
+<img width="582" alt="image" src="https://github.com/minahalim/checkers/assets/3163056/6f405bd3-28c6-4251-9abc-f6d005cb271b">
+<img width="582" alt="image" src="https://github.com/minahalim/checkers/assets/3163056/c5c9337b-0793-46a5-993c-023a59da2861">
+<img width="582" alt="image" src="https://github.com/minahalim/checkers/assets/3163056/fde58ae1-586a-47df-948f-593ec1e3f95c">
+<img width="582" alt="image" src="https://github.com/minahalim/checkers/assets/3163056/cd52a6d6-2e97-4fed-aa62-ab1e4db6d85f">
 
 Simple React Checkers Game
 
